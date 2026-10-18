@@ -8,7 +8,7 @@ dependencies = [
     "packaging==26.0",
     "rfc3986==2.0.0",
     "trove-classifiers==2026.1.14.14",
-    "urllib3==2.7.0",
+    "urllib3==2.8.0",
     "pyx-member-23",
 ]
 
