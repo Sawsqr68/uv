@@ -24,7 +24,7 @@ classifiers = [
 requires-python = ">=3.12.0"
 dependencies    = [
     "aiodns==3.2.0",
-    "aiohttp==3.9.5",
+    "aiohttp==3.14.4",
     "aiohttp_cors==0.7.0",
     "aiohttp-fast-url-dispatcher==0.3.0",
     "aiohttp-fast-zlib==0.1.0",
@@ -51,7 +51,7 @@ dependencies    = [
     "PyJWT==2.8.0",
     # PyJWT has loose dependency. We want the latest one.
     "cryptography==42.0.8",
-    "Pillow==10.3.0",
+    "Pillow==13.0.0",
     "pyOpenSSL==24.1.0",
     "orjson==3.9.15",
     "packaging>=23.1",
